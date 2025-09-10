@@ -1,5 +1,4 @@
 import java.io.DataInputStream;
-import java.io.IOException;
 
 class Reading {
     public static void main(String[] args){
