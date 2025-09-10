@@ -4,7 +4,7 @@
 */
 
 import java.lang.Math;
-class SquareRoot{
+class multipleStatement{
     public static void main (String[] args){
         double x =256;
         double y;
