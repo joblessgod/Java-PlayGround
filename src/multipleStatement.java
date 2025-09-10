@@ -9,7 +9,7 @@ class SquareRoot{
         double x =256;
         double y;
         y = Math.sqrt(x);
-        System.out.print("y = " + y);
+        System.out.println("y = " + y);
     }
 
 }
